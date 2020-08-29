@@ -221,7 +221,7 @@ img {
 
 
 html,body {
-  background-image: url("myself.jpg");
+  background-image: url("src/myself.jpg");
   background-repeat: no-repeat;
   background-size: cover;
     background-attachment: fixed;
